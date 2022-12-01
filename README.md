@@ -24,7 +24,7 @@
   - Loss: SmoothL1Loss
   - max_len: 1024
   - Layerwise Learning Late Decay: 0.95
-  - Fast Gradient Method(FGM): 1e-6
+  - Fast Gradient Method(FGM): 0.3
   - Mixout: 0.2
   - AttentionPooling
   - reinit last layer
